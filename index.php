@@ -17,5 +17,13 @@
     <a href="./BUOI1/BT-09.html">Bài tập 9</a> <br>
     <a href="./BUOI1/bt1.html">Bài tập 1245</a> <br>
     <a href="./BUOI1/bt3.html">Bài tập 3</a> <br>
+    <br>
+    <br>
+    <a href="./BUOI2/bai1.html">Bài tập layout 1</a> <br>
+    <a href="./BUOI2/bai2.html">Bài tập layout 2</a> <br>
+    <br>
+    <br>
+    <a href="./BUOI2/bai12.html">Bài tập layout 12</a> <br>
+    <a href="./BUOI2/bai22.html">Bài tập layout 22</a> <br>
 </body>
 </html>
