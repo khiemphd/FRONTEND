@@ -1,0 +1,39 @@
+h1{
+    font-weight: bold;
+    font-size: 30px;
+    color: #dd1a4b;
+    text-align: center;
+}
+
+table , td{
+    border: 1px solid rgb(233, 9, 46);
+    border-collapse: collapse;
+}
+
+table{
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+tr:first-child, tr:nth-child(2){
+    background-color: rgb(224, 57, 85);
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+tr:nth-child(3) td:first-child, tr:nth-child(9) td:first-child{
+    color: tomato;
+    text-align: center;
+}
+
+ table td:last-child:not(:first-child){
+    text-align: center;
+    /*background-color: yellow;*/
+}
+
+table td:nth-last-child(2):not(:first-child){
+    text-align: center;
+    /*background-color: rgb(32, 196, 106);*/
+}

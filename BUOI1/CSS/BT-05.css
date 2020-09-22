@@ -1,0 +1,25 @@
+body{
+    width: 400px;
+    height: 100px;
+    font-style: italic;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+    color: green;
+}
+.mon{
+    font-weight: bold;
+    text-decoration: underline;
+}
+.red{
+    font-style: normal;
+    color: red;
+}
+
+#mcode{
+    background-color: rgb(160, 173, 187);
+    white-space: pre;
+    vertical-align: center;
+}

@@ -1,0 +1,228 @@
+/* CSS bài tập 1 */
+#BT1 {
+    border: 1px solid black;
+    text-align: center;
+}
+
+/* CSS bài tập 2 */
+#BT2{
+    border: 1px solid black;
+}
+
+#title{
+    background-color: #FECFFD;
+    text-align: center;
+    color: #FF3399;
+}
+
+#metext{
+    background-color: #FFFFCC;
+    text-align: center;
+    font-style: italic;
+}
+
+#metext1{
+    color: #0000FF;
+}
+
+#metext2{
+    color: red;
+}
+
+#metext3{
+    color: #006600;
+}
+
+#metext hr{
+    margin: auto;
+    background-color: gray;
+}
+
+/* CSS bài tập 3 */
+#BT3{
+    width: 80%;
+    background-color: #A06D21;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 1000px;
+    position: relative;
+}
+
+#BT3 #text{
+    position: absolute;
+    z-index: 3;
+}
+
+#BT3 #text h1{
+    padding-top: 3%;
+    color: #FFCC00;
+    text-align: center;
+}
+
+#BT3 #text p{
+    padding: 0 5%;
+    color: white;
+    text-align: justify;
+}
+
+#BT3 img{
+    margin-left: 15%;
+    position: fixed;
+    z-index: 1;
+    top: 15%;
+}
+
+/* CSS bài tập 4 */
+#BT4{
+    width: 60%;
+    margin: 1rem 20%;
+    background-image: url("img/flower.png");
+    box-shadow: 3px 3px 5px 0px gray;
+}
+
+#BT4 h1{
+    color: #008888;
+    text-align: center;
+}
+
+#p2, #p3{
+    color: #008888;
+    font-size: 16px;
+}
+
+#p1{
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    background-color: #008888;
+}
+
+/* CSS bài tập 5 */
+#BT5{
+    width: 60%;
+    margin: 1rem 20%;
+    box-shadow: 3px 3px 5px 0px gray;
+    padding: 5px;
+}
+
+#BT5 #for{
+    background-color: #CCCCCC;
+}
+#BT5 #for p{
+    color: #0000CC;
+}
+/* CSS bÃ i táº­p 1 */
+#BT1 {
+    border: 1px solid black;
+    text-align: center;
+}
+
+/* CSS bÃ i táº­p 2 */
+#BT2{
+    border: 1px solid black;
+}
+
+#title{
+    background-color: #FECFFD;
+    text-align: center;
+    color: #FF3399;
+}
+
+#metext{
+    background-color: #FFFFCC;
+    text-align: center;
+    font-style: italic;
+}
+
+#metext1{
+    color: #0000FF;
+}
+
+#metext2{
+    color: red;
+}
+
+#metext3{
+    color: #006600;
+}
+
+#metext hr{
+    margin: auto;
+    background-color: gray;
+}
+
+/* CSS bÃ i táº­p 3 */
+#BT3{
+    width: 80%;
+    background-color: #A06D21;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 1000px;
+    position: relative;
+}
+
+#BT3 #text{
+    position: absolute;
+    z-index: 3;
+}
+
+#BT3 #text h1{
+    padding-top: 3%;
+    color: #FFCC00;
+    text-align: center;
+}
+
+#BT3 #text p{
+    padding: 0 5%;
+    color: white;
+    text-align: justify;
+}
+
+#BT3 img{
+    margin-left: 15%;
+    position: fixed;
+    z-index: 1;
+    top: 15%;
+}
+
+/* CSS bÃ i táº­p 4 */
+#BT4{
+    width: 60%;
+    margin: 1rem 20%;
+    background-image: url("img/flower.png");
+    box-shadow: 3px 3px 5px 0px gray;
+}
+
+#BT4 h1{
+    color: #008888;
+    text-align: center;
+}
+
+#p2, #p3{
+    color: #008888;
+    font-size: 16px;
+}
+
+#p1{
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    background-color: #008888;
+}
+
+/* CSS bÃ i táº­p 5 */
+#BT5{
+    width: 60%;
+    margin: 1rem 20%;
+    box-shadow: 3px 3px 5px 0px gray;
+    padding: 5px;
+}
+
+#BT5 #for{
+    background-color: #CCCCCC;
+}
+#BT5 #for p{
+    color: #0000CC;
+}

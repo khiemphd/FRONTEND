@@ -1,0 +1,60 @@
+body{
+    width: 550px;
+    height: 100px;
+}
+
+h1{
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+    color: orangered;
+    border-color: tomato;
+    border-style: solid;
+    border-width: 1px;
+    outline-color: tomato;
+    outline-style: solid;
+    outline-width: 2px;
+    outline-offset: 2px;
+}
+
+#p1{
+    text-align: left;
+}
+
+#p2{
+    background-color: tomato;
+    color: white;
+    text-align: right;
+    font-weight: 20px;
+}
+
+#p3{
+    text-align: right;
+}
+
+/*.flp{
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(168, 36, 12);
+}*/
+
+#p1::first-letter , #p3::first-letter{
+    font-weight: bold;
+    font-size: xx-large;
+    color: rgb(168, 36, 12);
+}
+
+.damgach{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.red{
+    color: red;
+}
+
+.yellow{
+    font-style: italic;
+    background-color: yellow;
+}
+

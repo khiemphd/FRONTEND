@@ -1,0 +1,17 @@
+body{
+    /*width: 600px;
+    height: 400px;*/
+    background-color: #A06D21;
+    background-image: url('./VanLyTruongThanh.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 200px 310px;
+    color: white;
+    padding-left: 3px;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+    color: #FFCC00;
+}

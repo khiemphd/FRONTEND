@@ -1,0 +1,55 @@
+body{
+    height: 100px;
+    width: 600px;
+}
+
+h1{
+    font-size: x-large;
+    font-weight: bold;
+    color: palevioletred;
+    text-align: center;
+}
+
+img{
+    float: left;
+    width: 100px;
+    height: 220px;
+}
+
+.muc{
+    font-weight: bold;
+    color: white;
+    background-color: palevioletred;  
+}
+
+.d , .d2{ 
+    padding-left: 18px;
+    font-size: 15px;
+    font-family: Arial;
+}
+
+.d::before{
+    content: "\220E   ";
+}
+
+.d2::before{ 
+    content: "\BA   ";
+    padding: 0px ;
+    margin: 0px;
+}
+
+.dc{
+    font-style: italic;
+}
+
+.link::before{
+    content: "\A9 Copyright: ";
+    color: rgb(160, 18, 160);
+    padding-left: 20px;
+}
+pre{
+    padding: 0px;
+    margin: 0px;
+    padding-left: 500px;
+    margin-left: 18px;
+}

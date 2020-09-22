@@ -1,0 +1,20 @@
+body{
+    background-image: url('./flower.png');
+    background-repeat: repeat;
+    color: teal;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+    color: teal;
+}
+#p1{
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+    background: teal;
+}
+#p2 #p3{
+    color: teal;
+}
